@@ -9,7 +9,7 @@ Referencing this paper to try to use gcn in any general cases.
 ## Data
 Data are the assets of IGS which is private.
 
-They are 2D data which columns represent each features and rows represent behavior at some time.
+They are 2D data which columns represent each features and rows represent behavior at specific time.
 
 
 ## Model Overview and architecture
@@ -30,10 +30,8 @@ The whole model architectur can be splited to Feature-Level-Module and Time-Leve
 
 
 ## Conclusion
-As you can see, the test accuracy from Notebook that we get is 0.92🥰.
-I can't say that this method is effective for all cases , but I speculate that most of the data forms should be applicable.
-
-
+- Final accuracy of IGS test-data: 92.1%
+- Just an experiment to see the ability of GCN.
 
 
 
