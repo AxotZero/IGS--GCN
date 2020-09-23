@@ -1,9 +1,8 @@
 ## Introduction
-The model architecture is referenced from Microsoft CVPR2020 paper “Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition”.
-
-[There Github is Here](https://github.com/microsoft/SGN)
-
-Referencing this paper to try to use gcn in any general cases.
+- An experiment to see the ability of GCN.
+- The model architecture is referenced from Microsoft CVPR2020 paper “Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition”.
+- [There Github is Here](https://github.com/microsoft/SGN)
+- Referencing this paper to try to use gcn in any general cases.
 
 
 ## Data
